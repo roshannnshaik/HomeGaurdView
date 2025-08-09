@@ -1,6 +1,6 @@
 # Overview
 
-This is a smart doorbell management application built with React on the frontend and Express.js on the backend. The application provides real-time monitoring and control of doorbell devices, featuring live video streaming, person detection with recognition, activity tracking, and remote door control. Users can view live camera feeds, receive notifications for doorbell rings and motion detection, unlock doors remotely, and communicate through two-way audio. The system supports multiple devices per user and includes comprehensive settings management for customizing device behavior.
+This is a smart doorbell management application built as a pure HTML/CSS web application with Express.js backend API. The application provides real-time monitoring and control of doorbell devices, featuring live video streaming, person detection with recognition, activity tracking, and remote door control. The frontend is now a responsive HTML/CSS implementation that works seamlessly on both PC and mobile devices, with teal green navigation and a unified interface displaying all events and controls on the same page. Users can view live camera feeds, receive notifications for doorbell rings and motion detection, unlock doors remotely, and communicate through two-way audio.
 
 # User Preferences
 
